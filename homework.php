@@ -79,11 +79,10 @@
   <div class="col-sm-3">
   <input type="text" class="form-control" id="age" name="price">
   </div>
+   <label for="age1" class="col-sm-2">บาท</label>
   </div>
-  <label for="age1" class="col-sm-2">บาท</label>
   </div>
-  
-  
+
   <button type="submit" class="btn btn-primary">บันทึก</button>
   <button type="reset" class="btn btn-danger">ยกเลิก</button>
 </form>
